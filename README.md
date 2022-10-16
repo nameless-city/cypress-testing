@@ -1,3 +1,6 @@
 # cypress-testing
 
-change
+```
+npm cypress open
+```
+
