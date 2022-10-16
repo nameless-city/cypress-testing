@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nameless-city/cypress-testing/issues"
   },
-  "homepage": "https://github.com/nameless-city/cypress-testing#readme"
+  "homepage": "https://github.com/nameless-city/cypress-testing#readme",
+  "dependencies": {
+    "cypress": "^10.10.0"
+  },
+  "devDependencies": {}
 }
